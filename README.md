@@ -83,7 +83,7 @@
 - [Ovo] : Sama Yang Di Atas
 
 # Official Group
-- [Group 1]()
-- [Group 2]()
-- [Group 3]()
+- [Group 1](https://chat.whatsapp.com/C47LkeJiU9OAmGkfd7NTMr) LinuxMDOfc
+- [Group 2](https://chat.whatsapp.com/J6POxXuf46W49ro3aBnvaQ) GlospotBotz
+- [Group 3](https://chat.whatsapp.com/IS1V1LKUy16Fjd08uPtTdP) NaylaBotz
 
