@@ -75,7 +75,8 @@
     }
 }
 ```
-<details>
+
+  <details>
 
 
 ## Donate
