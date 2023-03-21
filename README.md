@@ -39,6 +39,8 @@
 ---
 
 # Instalasi
+
+
 ## FOR REPLIT USER
 [![Run on Repl.it](https://repl.it/badge/github/yusup909/LinuxMDv5.2)](https://repl.it/github/yusup909/LinuxMDv5.2)
 
@@ -51,19 +53,19 @@
 
 ```ts
 {
-    "ownerNumber": ["622150996855@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
-    "footer": "api.zeeoneofc.xyz",
+    "ownerNumber": ["6283897390164@s.whatsapp.net","62@s.whatsapp.net"],
+    "ownerName": "YusupKakuu",
+    "instagram" : "https://instagram.com/yusup_kaku",
+    "botName": "LinuxMD",
+    "footer": "Copyrigh Name",
     "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
-    "BotKey": "Gsyt6jRJ",
+    "pathimg": "./media/logolinux.jpg",
+    "BotKey": "Ambil Sendiri", ## zeoneofc
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
     "autobio": true,
     "anticall": true,
-    "autorespond": false,
+    "autorespond": true,
     "autoblok212": true,
     "autoread": true,
     "gamewaktu": 90,
