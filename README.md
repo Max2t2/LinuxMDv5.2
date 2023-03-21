@@ -16,10 +16,10 @@
 <a href="https://github.com/yusup909/LinuxMDv5.2"><img title="Owner" src="https://img.shields.io/badge/Record-YusupKakuu-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeoneofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofficial?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofficial/Haruka-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofficial/Haruka-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofficial/Haruka-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofficial/Haruka-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofficial/Haruka-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofficial/Haruka-Md?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/yusup909/followers"><img title="Followers" src="https://img.shields.io/github/followers/yusup909?color=red&style=flat-square"></a>
+<a href="https://github.com/yusup909/LinuxMDv5.2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/yusup909/LinuxMDv5.2?color=blue&style=flat-square"></a>
+<a href="https://github.com/yusup909/LinuxMDv5.2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/yusup909/LinuxMDv5.2?color=red&style=flat-square"></a>
+<a href="https://github.com/yusup909/LinuxMDv5.2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofficial/Haruka-Md?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeoneofficial/Haruka-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/zeeoneofficial/Haruka-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofficial/Haruka-Md?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofficial%2FHaruka-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
