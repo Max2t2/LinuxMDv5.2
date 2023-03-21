@@ -42,8 +42,6 @@
 ## FOR REPLIT USER
 [![Run on Repl.it](https://repl.it/badge/github/yusup909/LinuxMDv5.2)](https://repl.it/github/yusup909/LinuxMDv5.2)
 
-[`Click Here For Tutorial`](https://youtube.com/YUSUP909)<br>
-
 ----------
 
 ## Edit Owner 
