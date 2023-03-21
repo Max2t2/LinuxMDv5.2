@@ -46,29 +46,6 @@
 
 ----------
 
-<p align="center">
-  <a href="https://youtube.com/YUSUP909"><img src="github.com/yusup909" />
-</p>
-
-## FOR RAILWAY USER 
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=zeeoneofc)
-
-[`Click Here For Tutorial`](https://youtu.be/BqRauxohbLg)<br>
-
-----------
-
-<p align="center">
-  <a href="https://youtu.be/BqRauxohbLg"><img src="https://telegra.ph/file/ba58c4ad1b43bc285f16b.jpg" />
-</p>
-
-## For Termux
-- [Download script MediaFire](https://youtu.be/Rl_EfOU5MHo)
-
-<p align="center">
-<a href="https://youtu.be/Rl_EfOU5MHo"><img src="https://telegra.ph/file/bd05e28829bb3f0ca4b6a.jpg" />
-</p>
-
 ## Edit Owner 
 
 <details>
