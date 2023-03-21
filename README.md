@@ -5,7 +5,7 @@
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://github.com/zeeoneofficial/Haruka-Md/blob/v1/media/Haruka.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/yusup909/ReadMee/blob/main/a6cc8b081a0ce93967582afe4e2f624d.jpg" alt="LinuxMDv5.2" width="100"/>
 
 
 </p>
