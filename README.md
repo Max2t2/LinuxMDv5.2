@@ -75,6 +75,7 @@
     }
 }
 ```
+<details>
 
 ## Donate
 - [Saweria](https://saweria.co/YUSUP909)
