@@ -40,14 +40,14 @@
 
 # Instalasi
 ## FOR REPLIT USER
-[![Run on Repl.it](https://repl.it/badge/github/zeeoneofficial/Haruka-Md)](https://repl.it/github/zeeoneofficial/Haruka-Md)
+[![Run on Repl.it](https://repl.it/badge/github/yusup909/LinuxMDv5.2)](https://repl.it/github/yusup909/LinuxMDv5.2)
 
-[`Click Here For Tutorial`](https://youtu.be/jom_scHK09c)<br>
+[`Click Here For Tutorial`](https://youtube.com/YUSUP909)<br>
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/jom_scHK09c"><img src="https://telegra.ph/file/eb8dbe898ed8f9c32f013.jpg" />
+  <a href="https://youtube.com/YUSUP909"><img src="github.com/yusup909" />
 </p>
 
 ## FOR RAILWAY USER 
