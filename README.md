@@ -27,11 +27,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#requirements">Requirements</a> •
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeoneofficial/Haruka-Md#donate">Donate</a>
+  <a href="https://github.com/yusup909/LinuxMDv5.2#requirements">Requirements</a> •
+  <a href="https://github.com/yusup909/LinuxMDv5.2#instalasi">Installation</a> •
+  <a href="https://github.com/yusup909/LinuxMDv5.2#thanks-to">Thanks to</a> •
+  <a href="https://github.com/yusup909/LinuxMDv5.2#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/yusup909/LinuxMDv5.2#donate">Donate</a>
 </p>
 </div>
 
